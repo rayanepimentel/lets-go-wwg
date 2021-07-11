@@ -1,0 +1,167 @@
+# Sábado 10/07
+
+## Introdução
+
+- `Pacote(package)`: é um conjunto de um ou mais arquivos Go dentro do mesmo diretório
+- `Função(function)`: é um pedaço de código bem delineado que pode ser reaproveitado várias vezes.
+
+Ponto te entrada da aplicação fica na função `main()`, que fica no pacote `main`
+
+```go
+package main
+
+func main() {
+	// Algum código aqui
+}
+```
+
+- `Importações`: torna-se disponível um conjunto de código/biblioteca.
+
+O pacote `fmt` da biblioteca padrão de Go, para ser usado na função `main()` é necessário 
+importar o pacote usando a palavra reservada `import`, após a declaração do pacote
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Let's Go!")// PrintIn é uma função do pacote fmt
+}
+```
+
+#### Funções da biblioteca padrão
+- `fmt.Println()`: formata seus argumentos e escreve na saída padrão
+- `fmt.Printf()`: formata seus argumentos de acordo com especificadores de formato informados
+- `fmt.Sprintf()`: formata seus argumentos de acordo com especificadores de formato informados e retorna a cadeia de caracteres resultante
+
+```go
+package main //declaração de pacote
+
+import "fmt" //importação
+
+func main() {//declaração da função main() do pacote main
+	fmt.Println("Let's Go!")//uso da função Println() do pacote "fmt"
+}
+```
+
+### Declarações
+
+#### Variáveis
+
+Para declarar variáveis, utilizamos a palavra reservada `var` ou `:=` marmota
+
+```go
+var indentificador string//tipo
+var indentificador string = "ok"//tipo = valor
+var indentificador = "ok"//valor
+
+indentificador := "ok"//valor
+```
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	// Declarando variáveis
+	var a string
+	var b int
+	var c float64
+	var d bool
+
+	fmt.Printf("Meu tipo é %T e meu valor é: '%v'\n", a, a)
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", b, b)	
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", c, c)
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", d, d)
+}
+```
+
+`%T`: é um especificador de formato que imprime o tipo da variável
+`%v`: uma forma mais fácil de indicar “imprima um valor na sua forma padrão".
+
+Quando não passamos o valor, go entente que a variável é `valor zero`
+
+```go
+Saída:
+Meu tipo é string e meu valor é: ""
+Meu tipo é int e meu valor é: 0
+Meu tipo é float e meu valor é 0
+Meu tipo é bool e meu valor é false
+```
+
+A declaração de várias variáveis pode ser como uma lista de variáveis
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	// Inicializando mais de uma váriavel ao mesmo tempo, nesse caso com valor zero
+	var somos, todos, gophers string
+
+	fmt.Printf("Meu tipo é %T e meu valor é: '%v'\n", somos, somos)
+	fmt.Printf("Meu tipo é %T e meu valor é: '%v'\n", todos, todos)
+	fmt.Printf("Meu tipo é %T e meu valor é: '%v'\n", gophers, gophers)
+}
+```
+- Agora com valores poderia ser assim:
+<code>var somos, todos, gophers string = "we are", "all", "gophers"</code>
+- Como estamos colocando os valores, o tipo não é mais necessário
+<code>var somos, todos, gophers = "we are", "all", "gophers"</code>
+
+Exemplo de declaração usando operador curto:
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	// Declarando e inicializando variáveis
+	// Note que não utilizamos mais a palavra reservada 'var'
+	a := "wwg"
+	b := 100
+	c := 1.5
+	d := true
+
+	fmt.Printf("Meu tipo é %T e meu valor é: '%v'\n", a, a)
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", b, b)	
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", c, c)
+	fmt.Printf("Meu tipo é %T e meu valor é: %v\n", d, d)
+}
+```
+
+#### Escopo
+
+- escopo de uma variável, estamos falando da região onde aquela variável é conhecida.
+
+>Em Go, um grande indicador de escopo são as chaves { }. Elas indicam blocos sintáticos, pequenos "cercadinhos" de código, e uma entidade declarada dentro de um bloco sintático está disponível apenas dentro dele - desde sua declaração, até a chave (}) que o fecha.
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	var nome = "Seu Nome"
+	{
+		fmt.Println(nome, ", a variável nome está disponível aqui!")
+		numero := 230
+		fmt.Println("A variável numero está disponível aqui, com valor", numero)
+	}
+	fmt.Println(numero, ", a variável numero não está disponível aqui!")
+}
+```
+
+#### Visibilidade
+
+- Primeira letra maiúscula: indica que a entidade será exportada, ou seja ela poderá ser acessada por outro pacote.
+- Primeira letra minúscula: indica que ela estará disponível apenas dentro do pacote onde foi declarada.
