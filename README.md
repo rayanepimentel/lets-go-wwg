@@ -26,12 +26,13 @@
 - [Tipos compostos](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.3tiposCompostos.md):<br>
 `array`, `slice`, `maps`, `structs`
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.4condicionais.md):<br>
-em breve
+`if`, `if else`, `switch`
 - [Laços de reptição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.5lacosDeRepeticao.md):<br>
 em breve
 
 ### :trophy: Exercícios
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposDeDados)
+- [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/condicionais)
 
 ## :woman_technologist: Semana #02
 
