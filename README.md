@@ -17,7 +17,7 @@
 
 ## :woman_technologist: Semana #01
 
-### :battery: Conteúdo apresentado:
+### :desktop_computer: Conteúdo apresentado:
 - [Introdução](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.1intro.md):<br>
 `package`, `func`, `import`, `fmt`, `var`, `:=`
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.2tiposDeDados.md):<br>
