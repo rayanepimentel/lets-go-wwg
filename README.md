@@ -2,18 +2,19 @@
 
 ## :love_you_gesture: Sobre
 
-- Repositório para o curso de iniciação em Golang do Women Who Go Curitiba
-- Aulas aos sábados via zoom.
+- Repositório para o curso de iniciação em Golang da :octocat: [Women Who Go Curitiba](https://github.com/womenwhogocwb)
+
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
 <img src="https://revista.devall.com.br/wp-content/uploads/2018/09/gopher-adventure.png" height="150" widtg="150">
 
-## ✅ Features
+## :heavy_check_mark: Features
 
 - [x] Semana #01
 - [ ] Semana #02
 - [ ] Semana #03
+- [ ] Semana #04
 
 ## :woman_technologist: Semana #01
 
@@ -31,3 +32,27 @@ em breve
 
 ### :trophy: Exercícios
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposDeDados)
+
+## :woman_technologist: Semana #02
+
+### :desktop_computer: Conteúdo apresentado:
+- em breve
+ 
+### :trophy: Exercícios
+- em breve
+
+## :woman_technologist: Semana #03
+
+### :desktop_computer: Conteúdo apresentado:
+- em breve
+ 
+### :trophy: Exercícios
+- em breve
+
+## :woman_technologist: Semana #04
+
+### :desktop_computer: Conteúdo apresentado:
+- em breve
+ 
+### :trophy: Exercícios
+- em breve
