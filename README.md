@@ -28,7 +28,7 @@
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.4condicionais.md):<br>
 `if`, `if else`, `switch`
 - [Laços de reptição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.5lacosDeRepeticao.md):<br>
-em breve
+`for`, `while`, `range`
 
 ### :trophy: Exercícios
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposDeDados)
