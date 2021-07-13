@@ -27,7 +27,7 @@
 `array`, `slice`, `maps`, `structs`
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.4condicionais.md):<br>
 `if`, `if else`, `switch`
-- [Laços de reptição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.5lacosDeRepeticao.md):<br>
+- [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.5lacosDeRepeticao.md):<br>
 `for`, `while`, `range`
 
 ### :trophy: Exercícios
