@@ -32,6 +32,7 @@
 
 ### :trophy: Exercícios
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposDeDados)
+- [Tipos compostos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposCompostos)
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/condicionais)
 
 ## :woman_technologist: Semana #02
