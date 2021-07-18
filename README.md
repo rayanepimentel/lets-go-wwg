@@ -38,9 +38,12 @@
 `if`, `if else`, `switch`
 - [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.2lacosDeRepeticao.md):<br>
 `for`, `for in`, `while`, `range`
+- [Função](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.3funcao.md):<br>
+`func`
  
 ### :trophy: Exercícios
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/condicionais)
+- [Função](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/funcoes)
 
 ## :woman_technologist: Semana #03
 
