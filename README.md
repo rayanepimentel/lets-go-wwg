@@ -12,7 +12,7 @@
 ## :heavy_check_mark: Features
 
 - [x] Semana #01
-- [ ] Semana #02
+- [x] Semana #02
 - [ ] Semana #03
 - [ ] Semana #04
 
@@ -25,23 +25,22 @@
 `int`, `floar`, `complex`, `string`, `bool`
 - [Tipos compostos](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.3tiposCompostos.md):<br>
 `array`, `slice`, `maps`, `structs`
-- [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.4condicionais.md):<br>
-`if`, `if else`, `switch`
-- [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana01/1.5lacosDeRepeticao.md):<br>
-`for`, `for in`, `while`, `range`
+
 
 ### :trophy: Exercícios
 - [Tipos de dados básicos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposDeDados)
 - [Tipos compostos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/tiposCompostos)
-- [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana01/exercicios/condicionais)
 
 ## :woman_technologist: Semana #02
 
 ### :desktop_computer: Conteúdo apresentado:
-- em breve
+- [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.1condicionais.md):<br>
+`if`, `if else`, `switch`
+- [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.2lacosDeRepeticao.md):<br>
+`for`, `for in`, `while`, `range`
  
 ### :trophy: Exercícios
-- em breve
+- [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/condicionais)
 
 ## :woman_technologist: Semana #03
 
