@@ -43,6 +43,7 @@
  
 ### :trophy: Exercícios
 - [Condicionais](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/condicionais)
+- [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/loop)
 - [Função](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana02/Exercicios/funcoes)
 
 ## :woman_technologist: Semana #03
