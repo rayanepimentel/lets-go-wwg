@@ -38,6 +38,8 @@
 `if`, `if else`, `switch`
 - [Laços de repetição](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.2lacosDeRepeticao.md):<br>
 `for`, `for in`, `while`, `range`
+- [Git](https://womenwhogocwb.gitbook.io/letsgo/mais/git):<br>
+`Bash/GitBash`, `Remoto`, `Local`, `Branch`
 - [Função](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana02/2.3funcao.md):<br>
 `func`
  
