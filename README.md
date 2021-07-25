@@ -13,7 +13,7 @@
 
 - [x] Semana #01
 - [x] Semana #02
-- [ ] Semana #03
+- [x] Semana #03
 - [ ] Semana #04
 
 ## :woman_technologist: Semana #01
@@ -51,10 +51,17 @@
 ## :woman_technologist: Semana #03
 
 ### :desktop_computer: Conteúdo apresentado:
-- em breve
+- [Métodos](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana03/3.1metodos.md):<br>
+`methods`, `receiver`
+- [Interfaces](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana03/3.2interfaces.md):<br>
+`interface`
+- [Testes]():<br>
+`testing`, `TDD`
  
 ### :trophy: Exercícios
-- em breve
+- [Métodos](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana03/exercicios/metodos)
+- [Interfaces](https://github.com/rayanepimentel/lets-go-wwg/tree/main/semana03/exercicios/interfaces)
+- [Testes]()
 
 ## :woman_technologist: Semana #04
 
