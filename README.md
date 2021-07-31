@@ -14,7 +14,7 @@
 - [x] Semana #01
 - [x] Semana #02
 - [x] Semana #03
-- [ ] Semana #04
+- [x] Semana #04
 
 ## :woman_technologist: Semana #01
 
@@ -55,7 +55,7 @@
 `methods`, `receiver`
 - [Interfaces](https://github.com/rayanepimentel/lets-go-wwg/blob/main/notes/semana03/3.2interfaces.md):<br>
 `interface`
-- [Testes]():<br>
+- [Testes](https://womenwhogocwb.gitbook.io/letsgo/mais/testes):<br>
 `testing`, `TDD`
  
 ### :trophy: Exercícios
@@ -66,7 +66,10 @@
 ## :woman_technologist: Semana #04
 
 ### :desktop_computer: Conteúdo apresentado:
-- em breve
+-[Continuação do projeto]()<br>
+`test`
+- [Status Code]()<br>
+`400`, `500`
  
 ### :trophy: Exercícios
 - em breve
