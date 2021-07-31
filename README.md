@@ -66,7 +66,7 @@
 ## :woman_technologist: Semana #04
 
 ### :desktop_computer: Conteúdo apresentado:
--[Continuação do projeto]()<br>
+- [Continuação do projeto]()<br>
 `test`
 - [Status Code]()<br>
 `400`, `500`
